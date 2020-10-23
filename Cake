@@ -1,0 +1,16 @@
+Chose the type of cake
+Find recipe for cake
+Preheat the oven to 350°F (177°C)
+Arrange pan on Oven
+Mix:
+    Whisk the flour
+    cocoa powder
+    baking powder
+    baking soda
+    salt 
+    together in a large bowl 
+Until thoroughly combined
+Put the Mix on pan to Oven
+Bake for 18-21 minutes or until a toothpick inserted in the center comes out clean
+Let cool completely
+
