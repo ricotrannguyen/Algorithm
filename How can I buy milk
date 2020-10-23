@@ -1,0 +1,15 @@
+Problems  - How can i buy milk
+Define    A - what kind of mlik- milk 0%,1%,2%,3% or non dairy mlik (oak, coconut,...)
+Location  B - where I can buy from? grocery, market, super market...
+Payment   C - What kind of payment i wanna 
+How can i go to there D - Walk, bus, car, take a ride...
+I will came to place B by D 
+If i saw milk i will take to myself
+If can't see where milk location , i need to ask assitant from staff to know
+When i saw milk i need to check the kind of milk i want (A)
+if i couldn't find my milk, I have to came back step 6 until i find my kind of milk
+I'll  pay my milk by C
+then i came back home by D 
+I done my problem when i have milk A in my house
+if i can't get milk back home ( some accident), i have to back step 6 to get my milk agains
+I end of my problem
