@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T17:13:27.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="b8hkvny6fD8I1T5jRZSQ" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T17:13:49.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="J5niTNybPeLggy9njnDO" version="13.8.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="866" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="kciBo0cJjQs4YTKinumm-50" value="Sum(N)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kciBo0cJjQs4YTKinumm-53" value="Print out&lt;br&gt;N&lt;br&gt;Sum(N)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kciBo0cJjQs4YTKinumm-53" value="Print out&lt;br&gt;All N&lt;br&gt;Sum(N)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
