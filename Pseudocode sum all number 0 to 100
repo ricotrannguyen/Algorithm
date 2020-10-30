@@ -1,0 +1,8 @@
+We have S is Sum of N from 0 to 100
+For N run from 0 , S = 0
+Do S' = S + N
+If N < 100
+Do N = N +1 com back to step 2
+Else
+Print out S
+End
