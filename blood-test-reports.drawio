@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T18:30:06.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="tngdGd79z1Gz_cYkjzSZ" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T18:30:47.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Fu9sGSwcATZP3e8OBfN1" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1017" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,8 +9,8 @@
             <mxPoint x="420" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="djMYuYF3x6x0kB0NEv1a-1" value="User ID&lt;br&gt;Password&lt;br&gt;Email&lt;br&gt;Receiving day" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="djMYuYF3x6x0kB0NEv1a-1" value="1.User ID&lt;br&gt;2.Password&lt;br&gt;3.Email&lt;br&gt;4.Receiving day" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djMYuYF3x6x0kB0NEv1a-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="djMYuYF3x6x0kB0NEv1a-3" target="djMYuYF3x6x0kB0NEv1a-22">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +67,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="djMYuYF3x6x0kB0NEv1a-27" value="Blood test report" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
