@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T18:30:47.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Fu9sGSwcATZP3e8OBfN1" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T18:31:44.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="3ebESHhuaS9kt-mcxNgu" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1017" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="djMYuYF3x6x0kB0NEv1a-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="djMYuYF3x6x0kB0NEv1a-9" target="djMYuYF3x6x0kB0NEv1a-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djMYuYF3x6x0kB0NEv1a-9" value="Sign Out&amp;nbsp;&lt;br&gt;User" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="djMYuYF3x6x0kB0NEv1a-9" value="Sign Out&amp;nbsp;&lt;br&gt;User session" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djMYuYF3x6x0kB0NEv1a-11" value="&lt;span style=&quot;color: rgb(60, 64, 67); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: 0.2px; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Print out&lt;br&gt;“Your report has been sent to your email address.”&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=19;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -48,6 +48,15 @@
         <mxCell id="djMYuYF3x6x0kB0NEv1a-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Check day on receive&lt;/span&gt;&lt;br&gt;Base on current Time&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="240" width="140" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="djMYuYF3x6x0kB0NEv1a-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="djMYuYF3x6x0kB0NEv1a-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="300" />
+              <mxPoint x="40" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="djMYuYF3x6x0kB0NEv1a-20" value="&lt;span style=&quot;color: rgb(60, 64, 67); font-size: 14px; letter-spacing: 0.2px;&quot;&gt;“Your report would be available on the date specified on your payment receipt.”&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="257.5" width="140" height="85" as="geometry" />
         </mxCell>
@@ -59,6 +68,14 @@
         </mxCell>
         <mxCell id="djMYuYF3x6x0kB0NEv1a-22" value="Check Valid &lt;br&gt;It&#39;s only vaild15 days after Report day" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="500" width="120" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="djMYuYF3x6x0kB0NEv1a-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="djMYuYF3x6x0kB0NEv1a-25" target="djMYuYF3x6x0kB0NEv1a-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="548" />
+              <mxPoint x="40" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="djMYuYF3x6x0kB0NEv1a-25" value="User ID and Password&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;It&#39;s only vaild15 days after Report day&lt;br&gt;&lt;/span&gt;Contract for help" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="511.63" width="130" height="72.25" as="geometry" />
