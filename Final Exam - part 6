@@ -1,0 +1,8 @@
+Start program
+Initialize integer N =1 , X =0, Y =0
+Input N = 100
+For N run from 1 to 100
+If N<1
+  Do N = X + Y
+  If 100 >= N >1
+  Do N = N + Y
