@@ -1,0 +1,38 @@
+Start Program
+Initialzie 5 separate integer number N1,N2,N3,N4,N5 =0
+Initialzie integer Average A = 0
+Input 5 separate integer number N1,N2,N3,N4, N5
+Read  5 separate integer number N1,N2,N3,N4, N5 was inputed
+Do calculate the average of the five number A = (N1+N2+N3+N4+N5)/5
+Prinout: " Average of five numbers  (N1+N2+N3+N4+N5)/5 = A "
+Go to next step
+Find the smallest number of the five number
+Check N1 If N1 is smallest
+Printout "N1 is smallest"
+Else check N2
+If N2 is smallest
+Printput "N2 is smallest"
+Else check N3 
+If N3 is smallest
+Printout: "N3 is smllest"
+Else check N4 
+If N4 is smallest
+Printout: "N4 is smallest"
+Eles N5 is smallest
+Printout : "N5 is smallest"
+Go to next step
+Find the biggest number of the five number
+Check N1 If N1 is biggest
+Printout "N1 is biggest"
+Else check N2
+If N2 is biggest
+Printput "N2 is biggest"
+Else check N3 
+If N3 is biggest
+Printout: "N3 is biggest"
+Else check N4 
+If N4 is biggest
+Printout: "N4 is biggest"
+Eles N5 is biggest
+Printout : "N5 is biggest"
+End programed
