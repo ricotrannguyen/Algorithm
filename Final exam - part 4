@@ -1,0 +1,19 @@
+Start Program
+Initialize N = 0 , X = 0, Y =0
+Set X = (10,11,12,13,14,15) 
+Set Y = (A,B,C,D,E,F)
+Input interger N
+If N <= 15
+  Do If 9 < N <= 15
+   Do loop while (N = X)
+    Else Increasing X = X+1, Y = Y+1 
+    return to while loop
+    Untill N = X
+    Do Replace N = Y
+   End while loop
+  Else keep N
+Prinout: "N"
+Else when N>15 
+Prinout : "error"
+End 
+Program completed
