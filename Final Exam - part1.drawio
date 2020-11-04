@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T20:26:09.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="16Bor8kwsxWhlSRXfq-7" version="13.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T00:58:49.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="BBdsbDgfvEnSoB_Kqarj" version="13.8.9" type="github">
   <diagram id="KpqeUWe9T__yHvzMCGmm" name="Page-1">
     <mxGraphModel dx="1017" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-GfSJ-mZbfH85P1tIpJl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-GfSJ-mZbfH85P1tIpJl-1" target="-GfSJ-mZbfH85P1tIpJl-2">
+        <mxCell id="-GfSJ-mZbfH85P1tIpJl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-GfSJ-mZbfH85P1tIpJl-1" target="-GfSJ-mZbfH85P1tIpJl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-GfSJ-mZbfH85P1tIpJl-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-GfSJ-mZbfH85P1tIpJl-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-GfSJ-mZbfH85P1tIpJl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-GfSJ-mZbfH85P1tIpJl-2" target="-GfSJ-mZbfH85P1tIpJl-6">
+        <mxCell id="k7OBvNrR8IVU0DONrp6M-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-GfSJ-mZbfH85P1tIpJl-2" target="k7OBvNrR8IVU0DONrp6M-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-GfSJ-mZbfH85P1tIpJl-2" value="Input amount of money" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-GfSJ-mZbfH85P1tIpJl-2" value="Input amount of money by User" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="305" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-GfSJ-mZbfH85P1tIpJl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-GfSJ-mZbfH85P1tIpJl-6" target="-GfSJ-mZbfH85P1tIpJl-8">
+        <mxCell id="-GfSJ-mZbfH85P1tIpJl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-GfSJ-mZbfH85P1tIpJl-8" target="-GfSJ-mZbfH85P1tIpJl-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-GfSJ-mZbfH85P1tIpJl-6" value="Input&amp;nbsp;another &lt;br&gt;country currency" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-GfSJ-mZbfH85P1tIpJl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-GfSJ-mZbfH85P1tIpJl-8" target="-GfSJ-mZbfH85P1tIpJl-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-GfSJ-mZbfH85P1tIpJl-8" value="Convert it to CAD&lt;br&gt;CAD amount = Amount money*(rate exchange)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-GfSJ-mZbfH85P1tIpJl-8" value="Convert it to CAD&lt;br&gt;CAD amount = Amount money*(rate exchange)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="305" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-GfSJ-mZbfH85P1tIpJl-10" value="Printout&lt;br&gt;Rate exchange&lt;br&gt;&amp;nbsp;CAD amount" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-GfSJ-mZbfH85P1tIpJl-10" value="Printout&lt;br&gt;Rate exchange&lt;br&gt;&amp;nbsp;CAD amount" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="297.5" y="360" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k7OBvNrR8IVU0DONrp6M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7OBvNrR8IVU0DONrp6M-1" target="-GfSJ-mZbfH85P1tIpJl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7OBvNrR8IVU0DONrp6M-1" value="Get data&amp;nbsp;&lt;br&gt;Today Currency of&lt;br&gt;USA to CAD = 1.31" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
